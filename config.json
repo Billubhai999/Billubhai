@@ -19,7 +19,7 @@
     ]
   },
   "adminBot": [
-    "",
+    "100066082432652",
     "",
     "",
     ""
@@ -29,7 +29,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "S K Y 🕊️",
+  "nickNameBot": "BILLI🕊️",
   "prefix": "+",
   "database": {
     "type": "sqlite",
